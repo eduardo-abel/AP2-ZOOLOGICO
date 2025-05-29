@@ -28,7 +28,7 @@ while (executando)
             break;
         case "4":
             executando = false;
-            Console.WriteLine("Sistema finalizado")
+            Console.WriteLine("Sistema finalizado");
             break;
         default:
             Console.WriteLine("Opção Inválida!");
@@ -123,7 +123,7 @@ static void InteragirAnimalFuncionario(List<Animal> animais, List<Funcionario> f
 
     if (animais.Count == 0 || funcionarios.Count == 0)
     {
-        Console.WriteLine("É preciso ter ao menos um animal e um funcionário cadastrados.");
+        Console.WriteLine("É preciso ter pelo menos um animal e um funcionário cadastrados.");
         return;
     }
 

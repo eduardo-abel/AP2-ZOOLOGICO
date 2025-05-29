@@ -12,3 +12,4 @@ C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\refint\ZooLogico.dll
 C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ZooLogico.pdb
 C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ZooLogico.genruntimeconfig.cache
 C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ref\ZooLogico.dll
+C:\Users\Celio\Desktop\zoologico\obj\Debug\net8.0\ZooLogico.sourcelink.json
