@@ -1,0 +1,14 @@
+C:\Users\Celio\Desktop\ZooLogico\bin\Debug\net8.0\ZooLogico.exe
+C:\Users\Celio\Desktop\ZooLogico\bin\Debug\net8.0\ZooLogico.deps.json
+C:\Users\Celio\Desktop\ZooLogico\bin\Debug\net8.0\ZooLogico.runtimeconfig.json
+C:\Users\Celio\Desktop\ZooLogico\bin\Debug\net8.0\ZooLogico.dll
+C:\Users\Celio\Desktop\ZooLogico\bin\Debug\net8.0\ZooLogico.pdb
+C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ZooLogico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ZooLogico.AssemblyInfoInputs.cache
+C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ZooLogico.AssemblyInfo.cs
+C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ZooLogico.csproj.CoreCompileInputs.cache
+C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ZooLogico.dll
+C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\refint\ZooLogico.dll
+C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ZooLogico.pdb
+C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ZooLogico.genruntimeconfig.cache
+C:\Users\Celio\Desktop\ZooLogico\obj\Debug\net8.0\ref\ZooLogico.dll
