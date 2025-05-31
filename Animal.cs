@@ -1,4 +1,4 @@
-public abstract class Animal
+public abstract class Animal //nessa linha estamos criando uma classe pulbica animal
 {
     public string? Nome { get; set; }
     public  int Idade { get; set; }
